@@ -49,3 +49,7 @@ font-size: 48px;
 .button2{
     font-size: 35px;
 }
+
+.button1{
+    cursor:pointer;
+}
