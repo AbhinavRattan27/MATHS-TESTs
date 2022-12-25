@@ -50,6 +50,6 @@ font-size: 48px;
     font-size: 35px;
 }
 
-.button1{
+.button1:hover{
     cursor:pointer;
 }
